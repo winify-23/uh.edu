@@ -1693,7 +1693,7 @@ a.nav-link-covid {
 }
 
 .uh-header .menu-button-active {
-  background-color: #960C22;
+  background-color: #212151;
 }
 
 @media only screen and (min-width: 768px) {
@@ -1885,7 +1885,7 @@ a.nav-link-covid {
   }
   .uh-header .nav-primary .children a:hover,
   .uh-header .nav-primary .children a:visited:hover {
-    color: #960C22;
+    color: #212151;
   }
   .uh-header .nav-primary .children a {
     padding: 0.5em 1.5em 0.5em 0.75em;
@@ -1992,7 +1992,7 @@ body > .uh-footer {
 }
 
 .uh-footer-brick .site-footer {
-  background-color: #960C22;
+  background-color: #212151;
 }
 
 .uh-footer .site-footer .container {
@@ -2115,7 +2115,7 @@ body > .uh-footer {
 }
 
 .uh-footer-brick .site-footer .social-media-list svg {
-  fill: #960C22;
+  fill: #212151;
 }
 
 @media screen and (min-width: 420px) {
@@ -2179,7 +2179,7 @@ body > .uh-footer {
     width: 67.77777777%;
   }
   .uh-footer .site-footer .footer-links-list {
-    width: 75%;
+    width: 100%;
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
@@ -2315,12 +2315,12 @@ a {
 }
 
 a:hover {
-  color: #960C22;
+  color: #212151;
   text-decoration: none;
 }
 
 a:focus {
-  color: #960C22;
+  color: #212151;
   text-decoration: initial;
 }
 
@@ -2630,7 +2630,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #960C22;
+  color: #212151;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -2676,7 +2676,7 @@ a.bg-warning:hover, a.bg-warning:focus {
 
 .bg-danger {
   color: white;
-  background-color: #960c22;
+  background-color: #212151;
 }
 
 a.bg-danger:hover, a.bg-danger:focus {
@@ -2815,7 +2815,7 @@ pre {
 }
 
 .label-danger {
-  background-color: #960c22;
+  background-color: #212151;
 }
 
 .label-danger[href]:hover, .label-danger[href]:focus {
@@ -2926,7 +2926,7 @@ pre {
 }
 
 .progress-bar-danger {
-  background-color: #960c22;
+  background-color: #212151;
 }
 
 /* ======================================================================== Tables ======================================================================== */
@@ -3363,7 +3363,7 @@ legend, .help-block {
 
 .btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled.focus, .btn-primary[disabled].focus, fieldset[disabled] .btn-primary.focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active {
   background-color: #212151;
-  border-color: #960c22;
+  border-color: #212151;
 }
 
 .btn-primary .badge {
@@ -3509,7 +3509,7 @@ legend, .help-block {
 /* * btn-danger */
 .btn-danger {
   color: #ffffff;
-  background-color: #960c22;
+  background-color: #212151;
   border-color: #640817;
 }
 
@@ -3542,12 +3542,12 @@ legend, .help-block {
 }
 
 .btn-danger.disabled, .btn-danger[disabled], fieldset[disabled] .btn-danger, .btn-danger.disabled:hover, .btn-danger[disabled]:hover, fieldset[disabled] .btn-danger:hover, .btn-danger.disabled:focus, .btn-danger[disabled]:focus, fieldset[disabled] .btn-danger:focus, .btn-danger.disabled.focus, .btn-danger[disabled].focus, fieldset[disabled] .btn-danger.focus, .btn-danger.disabled:active, .btn-danger[disabled]:active, fieldset[disabled] .btn-danger:active, .btn-danger.disabled.active, .btn-danger[disabled].active, fieldset[disabled] .btn-danger.active {
-  background-color: #960c22;
+  background-color: #212151;
   border-color: #640817;
 }
 
 .btn-danger .badge {
-  color: #960c22;
+  color: #212151;
   background-color: #ffffff;
 }
 
@@ -3885,7 +3885,7 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
 
 .panel-danger > .panel-heading {
   color: #ffffff;
-  background-color: #960C22;
+  background-color: #212151;
   border-color: #78081D;
 }
 
@@ -3894,7 +3894,7 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
 }
 
 .panel-danger > .panel-heading .badge {
-  color: #960C22;
+  color: #212151;
   background-color: #ffffff;
 }
 
@@ -4104,7 +4104,7 @@ nav ul, nav ol {
 }
 
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
-  color: #960C22;
+  color: #212151;
   z-index: 1;
 }
 
@@ -4119,7 +4119,7 @@ nav ul, nav ol {
 }
 
 .pager li > a:hover, .pager li > a:focus {
-  color: #960C22;
+  color: #212151;
 }
 
 /* ======================================================================== Thumbnails ======================================================================== */
@@ -4899,7 +4899,7 @@ span.hidden-xs {
 
 
 .theme-default a:not(.btn):hover, .theme-default .btn-link:hover, .theme-light-gray a:not(.btn):hover, .theme-light-gray .btn-link:hover, .theme-cream a:not(.btn):hover, .theme-cream .btn-link:hover {
-  color: #960C22;
+  color: #212151;
   /*text-decoration: underline;
    */
 }
@@ -4942,7 +4942,7 @@ span.hidden-xs {
 }
 
 [class*=theme] .pagination > li > a:not(.btn):hover, [class*=theme] .pagination > li > a:not(.btn):focus, [class*=theme] .pager li > a:not(.btn):hover, [class*=theme] .pager li > a:not(.btn):focus {
-  color: #960C22;
+  color: #212151;
 }
 
 [class*=theme] .pagination > .active > a:not(.btn), [class*=theme] .pagination > .active > a:not(.btn):hover, [class*=theme] .pagination > .active > a:not(.btn):focus {
@@ -5035,12 +5035,12 @@ span.hidden-xs {
 }
 
 .theme-red .nav-pills > li.active > a, .theme-red .nav-pills > li.active > a:hover, .theme-red .nav-pills > li.active > a:focus {
-  background-color: #960C22;
+  background-color: #212151;
 }
 
 .theme-red .list-group-item.active, .theme-red .list-group-item.active:hover, .theme-red .list-group-item.active:focus, .theme-red .pagination > .active > a:not(.btn), .theme-red .pagination > .active > span, .theme-red .pagination > .active > a:not(.btn):hover, .theme-red .pagination > .active > span:hover, .theme-red .pagination > .active > a:not(.btn):focus, .theme-red .pagination > .active > span:focus {
-  background-color: #960C22;
-  border-color: #960C22;
+  background-color: #212151;
+  border-color: #212151;
 }
 
 #banner + .theme-red {
@@ -5052,7 +5052,7 @@ span.hidden-xs {
 }
 
 .theme-brick, .theme-brick .nav-tabs > li.active > a, .theme-brick .nav-tabs > li.active > a:hover, .theme-brick .nav-tabs > li.active > a:focus {
-  background-color: #960c22;
+  background-color: #212151;
   color: white;
 }
 
@@ -6637,7 +6637,7 @@ html[xmlns] .slides {
 }
 
 #content-info .social-media a:hover {
-  background-color: #960c22;
+  background-color: #212151;
 }
 
 #content-info .social-media .facebook {
@@ -6984,7 +6984,7 @@ footer #categories {
   left: 0;
   width: 0;
   height: 0;
-  border-top: 15px solid #960C22;
+  border-top: 15px solid #212151;
   border-left: 15px solid transparent;
 }
 
